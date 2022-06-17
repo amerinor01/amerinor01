@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alberto</h1>
 <h3 align="center">A passionate MsC Student</h3>
 
-- 🔭 I’m currently working on **Networking Simulator**
+- 🔭 I’m currently working as a **research assistant**
 
 - 🌱 I’m currently learning **AWS, Ansible, Docker**
 
