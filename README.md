@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alberto</h1>
-<h3 align="center">A passionate MsC Student</h3>
+<h3 align="center">A passionate PhD Student</h3>
 
 - 🔭 I’m currently working as a **research assistant**
 
-- 🌱 I’m currently learning **AWS, Ansible, Docker**
+- 🌱 I’m currently learning **Nixos, Rust**
 
 - 💬 Ask me about **C++**
 
 - 📫 How to reach me **amerinor01@gmail.com**
-
-- ⚡ Fun fact **Play Drums, Piano and Bass**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
