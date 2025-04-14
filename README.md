@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a **research assistant**
 
-- 🌱 I’m currently learning **Nixos, Rust**
+- 🌱 I’m currently learning **Nixos, Rust, Go**
 
 - 💬 Ask me about **C++**
 
